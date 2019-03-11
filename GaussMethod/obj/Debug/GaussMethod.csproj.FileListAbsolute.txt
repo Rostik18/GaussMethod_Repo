@@ -1,0 +1,7 @@
+C:\Users\Ростик\source\repos\GaussMethod\GaussMethod\bin\Debug\GaussMethod.exe.config
+C:\Users\Ростик\source\repos\GaussMethod\GaussMethod\bin\Debug\GaussMethod.exe
+C:\Users\Ростик\source\repos\GaussMethod\GaussMethod\bin\Debug\GaussMethod.pdb
+C:\Users\Ростик\source\repos\GaussMethod\GaussMethod\obj\Debug\GaussMethod.csprojAssemblyReference.cache
+C:\Users\Ростик\source\repos\GaussMethod\GaussMethod\obj\Debug\GaussMethod.csproj.CoreCompileInputs.cache
+C:\Users\Ростик\source\repos\GaussMethod\GaussMethod\obj\Debug\GaussMethod.exe
+C:\Users\Ростик\source\repos\GaussMethod\GaussMethod\obj\Debug\GaussMethod.pdb
